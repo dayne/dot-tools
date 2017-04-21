@@ -1,3 +1,6 @@
 [submodule "bleach.gist"]
 	path = bleach.gist
-	url = https://gist.github.com/dayne/780cfa69b3132a757497e76a3d0fbc01
+	url = git@github.com:780cfa69b3132a757497e76a3d0fbc01.git
+[submodule "ckblock.gist"]
+	path = ckblock.gist
+	url = git@github.com:dde91c992771c4e590937a003dd39018.git
