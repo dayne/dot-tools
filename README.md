@@ -1,4 +1,4 @@
-# dot-tools
+# `.tools` a.k.a dot-tools
 
 A repo for all those various little tools yak shavers needed across multiple systems that is kept in `.tools/bin` and added to the `PATH`
 
